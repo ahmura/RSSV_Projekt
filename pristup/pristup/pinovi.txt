@@ -1,0 +1,21 @@
+keypad
+s lijeva na desno gledajuæi na keypad - digital od 8 do 1
+
+
+rfid
+3.3v - 3V3 kod analoga
+rst - digital 9
+gnd - gnd, pokraj 3V3 kod analoga
+
+SDA - digital 10
+SCK - digital 13
+MOSI - digital 11
+MISO - digital 12
+IRQ - nije spojen
+
+
+lcd
+gnd - gnd, pokraj digital 13
+vcc - +5V, pokraj gnd kod digital
+sda - analog 4
+scl - analog 5
